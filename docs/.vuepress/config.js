@@ -10,7 +10,7 @@ module.exports = {
     ['meta', { 'http-quiv': 'expires', cotent: '0'}]
   ],
   serviceWorker: true, // 是否开启 PWA
-  base: '/blogs/', // 部署到github相关的配置
+  base: '/Plug-in/', // 部署到github相关的配置
   markdown: {
     lineNumbers: true // 代码块是否显示行号
   },
@@ -19,7 +19,7 @@ module.exports = {
 	  //{text: '公众号推荐', link: '/advertorial/' },
       {text: 'Android技术面试题', link: 'https://sogrey.github.io/Android_QA/' },
 	  {text: '前端技术面试题', link: 'https://sogrey.github.io/Web-QA/' },	
-      {text: 'Github', link: 'https://github.com/Sogrey/blogs'}      
+      {text: 'Github', link: 'https://github.com/Sogrey/Plug-in'}      
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2  // 侧边栏显示2级
