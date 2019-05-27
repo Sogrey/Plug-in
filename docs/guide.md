@@ -68,8 +68,16 @@ sidebarDepth: 2
 
 
 
-
 ## :books: Firefox浏览器插件
+
+## :books: Edge浏览器插件
+
+### :electric_plug: [Canary Channel](<https://www.microsoftedgeinsider.com/en-us>)  
+:link:[download](<https://www.microsoftedgeinsider.com/en-us/download>)
+
+> 在Edge中安装Chrome扩展程序
+>
+> 参考 [在Edge中安装Chrome扩展程序](https://www.jianshu.com/p/836156ff1851)
 
 ## :books: VS Code 插件
 
@@ -79,8 +87,40 @@ sidebarDepth: 2
 > 最好用的插件，没有之一，一台电脑配置好之后，其它的几台电脑都不用配置。新机器登录一下就搞定了。再也不用折腾环境了，
 使用GitHub Gist同步多台计算机上的设置，代码段，主题，文件图标，启动，键绑定，工作区和扩展。
 
+### :electric_plug: [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/?id=markdown-preview-enhanced) 
+
+> Markdown Preview Enhanced 是一款为 Atom 以及 Visual Studio Code 编辑器编写的超级强大的 Markdown 插件。 这款插件意在让你拥有飘逸的 Markdown 写作体验。
+
+### :electric_plug: [Polacode](https://github.com/octref/polacode) :link:[marketplace](<https://marketplace.visualstudio.com/items?itemName=pnp.polacode>)
+
+> 可以把代码生成图片（有些地方发代码结构会乱也没有代码高亮，这时候就可以生成图片再发）。
+>
+> 1. 快捷键 `Ctrl + Shift + P` 呼出命令窗 输入 `Polacode`
+> 2. 将要生成图片的代码复制到 Polacode 窗口
+> 3. 点击最下面按钮保存图片
+
+
 
 
 
 ## :books: Node.js
+
+### :electric_plug: [live-server](<https://github.com/tapio/live-server>)   编辑浏览html网页
+:link:[npm](<https://www.npmjs.com/package/live-server>)
+
+> 第一步： 安装Visual Studio Code + Node.JS
+>
+> 第二步：通过如下命令行安装live-server
+>
+> 在命令符中输入 `npm install -g live-server`进行安装
+>
+> 如果`npm install -g live-server`安装报错就用`npm install live-server -gf`安装
+>
+> 第三步：打开Visual Studio Code编写HTML代码，保存。
+>
+> 第四步：右击HTML文件所在的文件夹，选择“在命令提示符中打开”
+>
+> 第五步：输入`live-server`命令
+>
+> 第六步：选择HTML页面浏览即可
 
