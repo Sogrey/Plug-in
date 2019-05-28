@@ -17,6 +17,7 @@ module.exports = {
   themeConfig: {
     nav:[ // 导航栏配置	 
 	  //{text: '公众号推荐', link: '/advertorial/' },
+	  {text: '征集', link: 'https://github.com/Sogrey/Plug-in/issues/1' },
       {text: 'Android技术面试题', link: 'https://sogrey.github.io/Android_QA/' },
 	  {text: '前端技术面试题', link: 'https://sogrey.github.io/Web-QA/' },	
       {text: 'Github', link: 'https://github.com/Sogrey/Plug-in'}      
