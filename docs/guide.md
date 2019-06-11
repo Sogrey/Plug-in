@@ -271,4 +271,8 @@ sidebarDepth: 2
 > 第五步：输入`live-server`命令
 >
 > 第六步：选择HTML页面浏览即可
+>
+> > 定义端口： `live-server --port=4000`
+
+
 
