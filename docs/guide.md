@@ -14,7 +14,24 @@ sidebarDepth: 2
 
 ## :books: Chrome浏览器插件
 
+先放出6个下载插件的神仙网站！
+
+**极简插件**[http://chrome.zzzmh.cn](http://chrome.zzzmh.cn)
+
+**gugeapps**[http://www.gugeapps.net](http://www.gugeapps.net)
+
+**扩展迷**[http://extfans.com](http://extfans.com)
+
+**我爱chrome插件网**[http://52crx.com](http://52crx.com)
+
+ **Chrome插件网**[http://chromecj.com](http://chromecj.com)
+
+**插件网**[http://www.cnplugins.com](http://www.cnplugins.com)
+
+
+
 ### :electric_plug: [谷歌访问助手](<http://www.ggfwzs.com/>)  
+
 :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp)
 
 > 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
