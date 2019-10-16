@@ -16,17 +16,12 @@ sidebarDepth: 2
 
 先放出6个下载插件的神仙网站！
 
-**极简插件**[http://chrome.zzzmh.cn](http://chrome.zzzmh.cn)
-
-**gugeapps**[http://www.gugeapps.net](http://www.gugeapps.net)
-
-**扩展迷**[http://extfans.com](http://extfans.com)
-
-**我爱chrome插件网**[http://52crx.com](http://52crx.com)
-
- **Chrome插件网**[http://chromecj.com](http://chromecj.com)
-
-**插件网**[http://www.cnplugins.com](http://www.cnplugins.com)
+- **极简插件**[http://chrome.zzzmh.cn](http://chrome.zzzmh.cn)
+- **gugeapps**[http://www.gugeapps.net](http://www.gugeapps.net)
+- **扩展迷**[http://extfans.com](http://extfans.com)
+- **我爱chrome插件网**[http://52crx.com](http://52crx.com)
+- **Chrome插件网**[http://chromecj.com](http://chromecj.com)
+- **插件网**[http://www.cnplugins.com](http://www.cnplugins.com)
 
 
 
