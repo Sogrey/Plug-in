@@ -69,7 +69,7 @@ sidebarDepth: 2
 
 ### :electric_plug: [迅雷下载支持](<https://www.xunlei.com/>) 
 
-###  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo>)
+ :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo>)
 
 > 该扩展是深圳市迅雷网络技术有限公司旗下产品“迅雷X”的Chrome浏览器官方支持扩展。
 跟随迅雷X官方客户端打包，非迅雷X官方客户端可能会无法使用！
@@ -197,7 +197,7 @@ sidebarDepth: 2
 
 ### :electric_plug: [Import Cost](https://github.com/wix/import-cost)
 
-###  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+ :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 > 对引入的计算大小
 
