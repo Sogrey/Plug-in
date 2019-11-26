@@ -10,8 +10,6 @@ sidebarDepth: 2
 源自网络,展示自己常用插件。
 :::
 
-
-
 ## :books: Chrome浏览器插件
 
 先放出6个下载插件的神仙网站！
@@ -282,39 +280,39 @@ sidebarDepth: 2
 ## :books: Android studio
 
 ### :electric_plug: [Markdown Navigator](<https://github.com/vsch/idea-multimarkdown>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/7896-markdown-navigator/>)
-好用的Markdown导航器
-![](https://plugins.jetbrains.com/files/7896/screenshot_15818.png) ![](https://plugins.jetbrains.com/files/7896/screenshot_15819.png)
+>  好用的Markdown导航器
+>
+> ![](https://plugins.jetbrains.com/files/7896/screenshot_15818.png) ![](https://plugins.jetbrains.com/files/7896/screenshot_15819.png)
 
-### :electric_plug: [GsonFormat](<https://github.com/zzz40500/GsonFormat>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/7654-gsonformat/>)
+### :electric_plug: [GsonFormat](<https://github.com/zzz40500/GsonFormat>) :link:[jetbrains plugins根据Gson库使用的要求,将JSONObject格式的String 解析成实体
 
-根据Gson库使用的要求,将JSONObject格式的String 解析成实体
-
-![](https://plugins.jetbrains.com/files/7654/screenshot_15729.png)
+> 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
+>
+> ![](https://plugins.jetbrains.com/files/7654/screenshot_15729.png)
 
 ### :electric_plug: [Android ButterKnife Zelezny](<https://github.com/avast/android-butterknife-zelezny>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/7369-android-butterknife-zelezny/>)
 
-Android Studio插件，用于根据选定的布局XML生成ButterKnife注入。
-
-![](https://plugins.jetbrains.com/files/7369/screenshot_14384.png)
+> Android Studio插件，用于根据选定的布局XML生成ButterKnife注入。
+>
+> ![](https://plugins.jetbrains.com/files/7369/screenshot_14384.png)
 
 
 ### :electric_plug: [Alibaba Java Coding Guidelines](<https://github.com/alibaba/p3c/tree/master/idea-plugin>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/>)
 
-阿里巴巴Java开发规范
-
-中文版: [阿里巴巴Java开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)
-English Version: [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines)
+> 阿里巴巴Java开发规范
+> 
+> 中文版: [阿里巴巴Java开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)
+> English Version: [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines)
 
 
 ### :electric_plug: [AndroidProGuard Pro](<https://github.com/zhonghanwen/AndroidProguardPlugin>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10130-androidproguard-pro/>)
 
-Android 代码混淆
+> Android 代码混淆
 
 ### :electric_plug: [AndroidProguard](<https://github.com/pengyuantao/AndroidProguard>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10016-androidproguard/>)
 
-又一个Android 代码混淆
-
-![](https://camo.githubusercontent.com/ddefde15718eeeba5e068325d0e44e385341e310/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313436303032312d306565356331363534663764346537642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
+> 又一个Android 代码混淆
+> ![](https://camo.githubusercontent.com/ddefde15718eeeba5e068325d0e44e385341e310/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313436303032312d306565356331363534663764346537642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
 
 
 
