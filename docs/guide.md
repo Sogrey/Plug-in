@@ -241,7 +241,7 @@ sidebarDepth: 2
 
 > VS Code的Azure存储扩展允许您部署静态网站并浏览Azure Blob容器，文件共享，表和队列。按照[本教程](https://code.visualstudio.com/tutorials/static-website/getting-started)从VS Code部署Web应用程序到Azure存储。
 
-### :electric_plug: [Project Manager](https://github.com/alefragnani/vscode-project-manager)c
+### :electric_plug: [Project Manager](https://github.com/alefragnani/vscode-project-manager)
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
