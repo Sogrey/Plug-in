@@ -423,6 +423,12 @@ sidebarDepth: 2
 > 中文版: [阿里巴巴Java开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)
 > English Version: [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines)
 
+### :electric_plug: [360 Fireline Plugin](<http://magic.360.cn/zh/user.html#AS>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/9292-360-fireline-plugin//>)
+
+> 火线是360旗下的一款免费的代码静态分析产品，适用于Android和Java代码。 主打的安全检查规则是根据360业务多年技术沉淀而来。内存类检查的精确度业内领先。 火线产品现已推出Jenkins插件，持续集成更方便，访问[火线官网](http://magic.360.cn/zh/index.html)查看更多详情。
+> 
+> ![](http://magic.360.cn/images/user03.png)
+
 
 ### :electric_plug: [AndroidProGuard Pro](<https://github.com/zhonghanwen/AndroidProguardPlugin>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10130-androidproguard-pro/>)
 
