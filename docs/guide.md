@@ -80,6 +80,41 @@ sidebarDepth: 2
 > 突出显示或右键单击文本部分，然后单击旁边的“翻译”图标将其翻译为您的语言。 或者，要翻译您正在访问的整个页面，请单击浏览器工具栏上的翻译图标。
 
 
+### :electric_plug: [CSS Peeper](<https://csspeeper.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo>)
+
+> CSS Peeper 是一个用于 CSS 检查的多功能工具，它允许您快速查看任何网站的样式、字体、调色板和资源。
+
+### :electric_plug: React Developer Tools  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en>)
+> React Developer Tools 是与 React 使用时的实际扩展，为 React 应用程序提供了所有必要的检查工具。
+
+### :electric_plug: [Vue.js devtools](<https://devtools.vuejs.org/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en>)
+> Vue.js devtools 用于调试 Vue.js 应用程序的 Chrome 和 Firefox DevTools 扩展。
+
+
+### :electric_plug: [Screenity](<https://github.com/alyssaxuu/screenity>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji>)
+> Screenity 适用于 Chrome 的功能强大的屏幕录像机。它的功能亮点非常多，比如可以录制浏览器的标签页、整个屏幕（浏览器外），以及摄像头，通过在屏幕上的任意位置绘制、添加文本和创建箭头✏️👀突出显示您的单击、聚焦鼠标或将其隐藏在录制🎙️个人麦克风和计算机音频控制、推送通话，支持导出 mp4、if 和 webm 等。
+
+### :electric_plug: [LastPass](<https://www.lastpass.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en>)
+> LastPass 通过提供一个免费的密码管理器（与谷歌自带的密码管理器类似），提供密码生成和密码保护注释，可确保您的帐户和 API 密钥的安全。
+>
+> 安装插件并登录 LastPass 后，当注册新的网站时，可以直接在线生成密码并存储
+>
+> 它支持 IE、 Chrome、 FireFox、Opera、 Safari、Edge 等主流浏览器以及移动设备。
+
+### :electric_plug: [uBlock Origin](<https://github.com/uBlockOrigin>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>)
+> uBlock Origin 是一个简单而有效的广告拦截器扩展程序，您只需要安装它，而无需配置与操作，因为它可以使您的浏览体验保持无广告状态。
+
+### :electric_plug: [VisBug](<https://visbug.web.app/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en>)
+> VisBug 可以使用非常直观的控件和工具即时调整网站设计，而无需深入研究任何代码。
+
+### :electric_plug: [JSON Viewer](<https://github.com/tulios/json-viewer>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en>)
+> JSON Viewer 为 JSON 响应提供了一些非常需要的语法突出显示和样式自定义，这在当今大多数 Web API 中已经很普遍。
+
+### :electric_plug: [FeHelper](<https://www.baidufe.com/fehelper/index/index.html>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?hl=en>)
+> FeHelper JSON自动格式化、手动格式化、支持排序、解码、下载等，更多功能可在配置页面安装！
+
+### :electric_plug: [EditThisCookie](<http://www.editthiscookie.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>)
+> EditThisCookie 是一个功能强大的 cookie 管理器扩展，可让您快速有效地添加，删除，编辑，甚至导出和导入 cookie。
 
 ## :books: Firefox浏览器插件
 
