@@ -216,7 +216,9 @@ sidebarDepth: 2
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
-> 用于着色匹配括号
+> 每个人都喜欢对代码着色，Bracket Pair Colorizer提供了匹配颜色的左括号和右括号，从而更容易知道哪些括号属于谁。
+>
+> 还可以配置自定义括号字符，你也可以为活动范围添加背景颜色。
 
 ### :electric_plug: [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) 
 
