@@ -23,7 +23,7 @@ sidebarDepth: 2
 
 
 
-### :electric_plug: [谷歌访问助手](<http://www.ggfwzs.com/> ) 
+### :electric_plug: [谷歌访问助手](http://www.ggfwzs.com/> ) 
 
  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/谷歌访问助手/gocklaboggjfkolaknpbhddbaopcepfp)
 
@@ -39,98 +39,98 @@ sidebarDepth: 2
 > 使用本扩展需要简单激活：有一定免激活时间，请安装后按说明激活使用。
 > 为了防止运营商的网址劫持，本扩展中内置保护模块。
 
-### :electric_plug: [Octotree](<https://www.octotree.io/>) ​ 
+### :electric_plug: [Octotree](https://www.octotree.io/) ​ 
 
- :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc>)
+ :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
 > Chrome扩展程序，在GitHub上显示代码树。 非常适合探索项目源代码，而无需将许多存储库下载到您的计算机上。
 
-### :electric_plug: [JSONView](<https://github.com/gildas-lormeau/JSONView-for-Chrome>)   
+### :electric_plug: [JSONView](https://github.com/gildas-lormeau/JSONView-for-Chrome)   
 
- :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc>)
+ :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 
 > JSONView port for Chrome.
 > 
 
-### :electric_plug: [OneTab](<https://www.one-tab.com/>)  ​ 
+### :electric_plug: [OneTab](https://www.one-tab.com/)  ​ 
 
- :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall>)
+ :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 
 > 节省高达95％的内存并减少标签混乱
 > 每当您发现自己有太多标签时，请单击OneTab图标将所有标签转换为列表。当您需要再次访问选项卡时，可以单独还原或一次性还原。
 >
 > 当您的标签位于OneTab列表中时，您将节省高达95％的内存，因为您将减少在Google Chrome中打开的标签数量。
 
-### :electric_plug: [ZenHub for GitHub](<https://www.zenhub.com/>)   
+### :electric_plug: [ZenHub for GitHub](https://www.zenhub.com/)   
 
- :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd>)
+ :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd)
 
 > ZenHub是唯一一个在GitHub的用户界面中本地集成的项目管理工具。没有冗长的入职。没有配置问题。没有单独的登录。开发人员可以在他们喜欢的环境中工作，项目经理可以全面了解开发过程。
 
-### :electric_plug: [迅雷下载支持](<https://www.xunlei.com/>) 
+### :electric_plug: [迅雷下载支持](https://www.xunlei.com/) 
 
- :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo>)
+ :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo)
 
 > 该扩展是深圳市迅雷网络技术有限公司旗下产品“迅雷X”的Chrome浏览器官方支持扩展。
 跟随迅雷X官方客户端打包，非迅雷X官方客户端可能会无法使用！
 如您发现有些下载地址不能被接管，请在本扩展的Chrome工具栏图标处，勾选“开启强力接管”。
 
-### :electric_plug: [Google Translate](<http://translate.google.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb>)
+### :electric_plug: [Google Translate](http://translate.google.com/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 > 在浏览网页时轻松查看翻译。 由谷歌翻译团队。
 > 突出显示或右键单击文本部分，然后单击旁边的“翻译”图标将其翻译为您的语言。 或者，要翻译您正在访问的整个页面，请单击浏览器工具栏上的翻译图标。
 
 
-### :electric_plug: [CSS Peeper](<https://csspeeper.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo>)
+### :electric_plug: [CSS Peeper](https://csspeeper.com/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD%E6%94%AF%E6%8C%81/ncennffkjdiamlpmcbajkmaiiiddgioo)
 
 > CSS Peeper 是一个用于 CSS 检查的多功能工具，它允许您快速查看任何网站的样式、字体、调色板和资源。
 
-### :electric_plug: React Developer Tools  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en>)
+### :electric_plug: React Developer Tools  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 > React Developer Tools 是与 React 使用时的实际扩展，为 React 应用程序提供了所有必要的检查工具。
 
-### :electric_plug: [Vue.js devtools](<https://devtools.vuejs.org/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en>)
+### :electric_plug: [Vue.js devtools](https://devtools.vuejs.org/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 > Vue.js devtools 用于调试 Vue.js 应用程序的 Chrome 和 Firefox DevTools 扩展。
 
 
-### :electric_plug: [Screenity](<https://github.com/alyssaxuu/screenity>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji>)
+### :electric_plug: [Screenity](https://github.com/alyssaxuu/screenity)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 > Screenity 适用于 Chrome 的功能强大的屏幕录像机。它的功能亮点非常多，比如可以录制浏览器的标签页、整个屏幕（浏览器外），以及摄像头，通过在屏幕上的任意位置绘制、添加文本和创建箭头✏️👀突出显示您的单击、聚焦鼠标或将其隐藏在录制🎙️个人麦克风和计算机音频控制、推送通话，支持导出 mp4、if 和 webm 等。
 
-### :electric_plug: [LastPass](<https://www.lastpass.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en>)
+### :electric_plug: [LastPass](https://www.lastpass.com/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en)
 > LastPass 通过提供一个免费的密码管理器（与谷歌自带的密码管理器类似），提供密码生成和密码保护注释，可确保您的帐户和 API 密钥的安全。
 >
 > 安装插件并登录 LastPass 后，当注册新的网站时，可以直接在线生成密码并存储
 >
 > 它支持 IE、 Chrome、 FireFox、Opera、 Safari、Edge 等主流浏览器以及移动设备。
 
-### :electric_plug: [uBlock Origin](<https://github.com/uBlockOrigin>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>)
+### :electric_plug: [uBlock Origin](https://github.com/uBlockOrigin)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 > uBlock Origin 是一个简单而有效的广告拦截器扩展程序，您只需要安装它，而无需配置与操作，因为它可以使您的浏览体验保持无广告状态。
 
-### :electric_plug: [VisBug](<https://visbug.web.app/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en>)
+### :electric_plug: [VisBug](https://visbug.web.app/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)
 > VisBug 可以使用非常直观的控件和工具即时调整网站设计，而无需深入研究任何代码。
 
-### :electric_plug: [JSON Viewer](<https://github.com/tulios/json-viewer>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en>)
+### :electric_plug: [JSON Viewer](https://github.com/tulios/json-viewer)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en)
 > JSON Viewer 为 JSON 响应提供了一些非常需要的语法突出显示和样式自定义，这在当今大多数 Web API 中已经很普遍。
 
-### :electric_plug: [FeHelper](<https://www.baidufe.com/fehelper/index/index.html>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?hl=en>)
+### :electric_plug: [FeHelper](https://www.baidufe.com/fehelper/index/index.html)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?hl=en)
 > FeHelper JSON自动格式化、手动格式化、支持排序、解码、下载等，更多功能可在配置页面安装！
 
-### :electric_plug: [EditThisCookie](<http://www.editthiscookie.com/>)  :link:[chrome网上应用店](<https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en>)
+### :electric_plug: [EditThisCookie](http://www.editthiscookie.com/)  :link:[chrome网上应用店](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
 > EditThisCookie 是一个功能强大的 cookie 管理器扩展，可让您快速有效地添加，删除，编辑，甚至导出和导入 cookie。
 
 ## :books: Firefox浏览器插件
 
 ## :books: Edge浏览器插件
 
-### :electric_plug: [Canary Channel](<https://www.microsoftedgeinsider.com/en-us>)  
+### :electric_plug: [Canary Channel](https://www.microsoftedgeinsider.com/en-us)  
 
- :link:[download](<https://www.microsoftedgeinsider.com/en-us/download>)
+ :link:[download](https://www.microsoftedgeinsider.com/en-us/download)
 
 > 参考 [在Edge中安装Chrome扩展程序](https://www.jianshu.com/p/836156ff1851)
 
 ## :books: VS Code 插件
 
-### :electric_plug: [Settings Sync](<https://github.com/shanalikhan/code-settings-sync>)   
+### :electric_plug: [Settings Sync](https://github.com/shanalikhan/code-settings-sync)   
 
- :link:[marketplace](<https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync>)
+ :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 > 最好用的插件，没有之一，一台电脑配置好之后，其它的几台电脑都不用配置。新机器登录一下就搞定了。再也不用折腾环境了，
 使用GitHub Gist同步多台计算机上的设置，代码段，主题，文件图标，启动，键绑定，工作区和扩展。
@@ -141,7 +141,7 @@ sidebarDepth: 2
 
 ### :electric_plug: [Polacode](https://github.com/octref/polacode)  
 
- :link:[marketplace](<https://marketplace.visualstudio.com/items?itemName=pnp.polacode>)
+ :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 > 可以把代码生成图片（有些地方发代码结构会乱也没有代码高亮，这时候就可以生成图片再发）。
 >
@@ -149,9 +149,9 @@ sidebarDepth: 2
 > 2. 将要生成图片的代码复制到 Polacode 窗口
 > 3. 点击最下面按钮保存图片
 
-### :electric_plug: [Debugger for Chrome](<https://github.com/Microsoft/vscode-chrome-debug>) 
+### :electric_plug: [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) 
 
- :link:[marketplace](<https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome>)
+ :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 > 从VS Code调试在Google Chrome中运行的JavaScript代码。
 >
@@ -316,38 +316,38 @@ sidebarDepth: 2
 
 > 检查 typescript 语法规范。
 
-### :electric_plug: [Stylelint](<https://github.com/shinnn/vscode-stylelint>) 
+### :electric_plug: [Stylelint](https://github.com/shinnn/vscode-stylelint) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) 
 
 > 检查 CSS/SCSS/Less 语法规范。
 -
-### :electric_plug: [Markdownlint](<https://github.com/DavidAnson/vscode-markdownlint>) 
+### :electric_plug: [Markdownlint](https://github.com/DavidAnson/vscode-markdownlint) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 > 检查 markdown 语法规范。
 
-### :electric_plug: [Code Runner](<https://github.com/formulahendry/vscode-code-runner>) 
+### :electric_plug: [Code Runner](https://github.com/formulahendry/vscode-code-runner) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) 
 
 > 可以在编辑器里直接运行代码，查看结果。
 
-### :electric_plug:  [Color Picker](<https://github.com/anseki/vscode-color>) 
+### :electric_plug:  [Color Picker](https://github.com/anseki/vscode-color) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) 
 
 > 可以直接在编辑器里打开色板，选择各种模式的颜色。
 
-### :electric_plug:  [Document This](<https://github.com/joelday/vscode-docthis>) 
+### :electric_plug:  [Document This](https://github.com/joelday/vscode-docthis) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=joelday.docthis) 
 
 > 可以给函数、类等自动的加上详细的注释。
 > 快捷键 `Ctrl+Alt+D` and `again Ctrl+Alt+D`
 
-### :electric_plug:  [Git History](<https://github.com/joelday/vscode-docthis>) 
+### :electric_plug:  [Git History](https://github.com/joelday/vscode-docthis) 
 
  :link:[marketplace](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
@@ -355,7 +355,7 @@ sidebarDepth: 2
 
 ## :books: Node.js
 
-### :electric_plug: [live-server](<https://github.com/tapio/live-server>)   编辑浏览html网页 :link:[npm](<https://www.npmjs.com/package/live-server>)
+### :electric_plug: [live-server](https://github.com/tapio/live-server)   编辑浏览html网页 :link:[npm](https://www.npmjs.com/package/live-server)
 > 第一步： 安装Visual Studio Code + Node.JS
 >
 > 第二步：通过如下命令行安装live-server
@@ -400,7 +400,7 @@ sidebarDepth: 2
 >
 
 
-### :electric_plug: [http-server](<https://github.com/http-party/http-server>)   编辑浏览html网页 :link:[npm](<https://www.npmjs.com/package/http-server>)
+### :electric_plug: [http-server](https://github.com/http-party/http-server)   编辑浏览html网页 :link:[npm](https://www.npmjs.com/package/http-server)
 
 > 安装：
 >
@@ -457,12 +457,12 @@ sidebarDepth: 2
 
 ## :books: Android studio
 
-### :electric_plug: [Markdown Navigator](<https://github.com/vsch/idea-multimarkdown>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/7896-markdown-navigator/>)
+### :electric_plug: [Markdown Navigator](https://github.com/vsch/idea-multimarkdown) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/7896-markdown-navigator/)
 >  好用的Markdown导航器
 >
 > ![](https://plugins.jetbrains.com/files/7896/screenshot_15818.png) ![](https://plugins.jetbrains.com/files/7896/screenshot_15819.png)
 
-### :electric_plug: [GsonFormat](<https://github.com/zzz40500/GsonFormat>) 
+### :electric_plug: [GsonFormat](https://github.com/zzz40500/GsonFormat) 
 
  :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/7654-gsonformat/)
 
@@ -472,32 +472,32 @@ sidebarDepth: 2
 >
 > ![](https://plugins.jetbrains.com/files/7654/screenshot_15729.png)
 
-### :electric_plug: [Android ButterKnife Zelezny](<https://github.com/avast/android-butterknife-zelezny>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/7369-android-butterknife-zelezny/>)
+### :electric_plug: [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/7369-android-butterknife-zelezny/)
 
 > Android Studio插件，用于根据选定的布局XML生成ButterKnife注入。
 >
 > ![](https://plugins.jetbrains.com/files/7369/screenshot_14384.png)
 
 
-### :electric_plug: [Alibaba Java Coding Guidelines](<https://github.com/alibaba/p3c/tree/master/idea-plugin>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/>)
+### :electric_plug: [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c/tree/master/idea-plugin) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/)
 
 > 阿里巴巴Java开发规范
 > 
 > 中文版: [阿里巴巴Java开发手册](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%8D%8E%E5%B1%B1%E7%89%88%EF%BC%89.pdf)
 > English Version: [Alibaba Java Coding Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines)
 
-### :electric_plug: [360 Fireline Plugin](<http://magic.360.cn/zh/user.html#AS>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/9292-360-fireline-plugin//>)
+### :electric_plug: [360 Fireline Plugin](http://magic.360.cn/zh/user.html#AS) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/9292-360-fireline-plugin//)
 
 > 火线是360旗下的一款免费的代码静态分析产品，适用于Android和Java代码。 主打的安全检查规则是根据360业务多年技术沉淀而来。内存类检查的精确度业内领先。 火线产品现已推出Jenkins插件，持续集成更方便，访问[火线官网](http://magic.360.cn/zh/index.html)查看更多详情。
 > 
 > ![](http://magic.360.cn/images/user03.png)
 
 
-### :electric_plug: [AndroidProGuard Pro](<https://github.com/zhonghanwen/AndroidProguardPlugin>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10130-androidproguard-pro/>)
+### :electric_plug: [AndroidProGuard Pro](https://github.com/zhonghanwen/AndroidProguardPlugin) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/10130-androidproguard-pro/)
 
 > Android 代码混淆
 
-### :electric_plug: [AndroidProguard](<https://github.com/pengyuantao/AndroidProguard>) :link:[jetbrains plugins](<https://plugins.jetbrains.com/plugin/10016-androidproguard/>)
+### :electric_plug: [AndroidProguard](https://github.com/pengyuantao/AndroidProguard) :link:[jetbrains plugins](https://plugins.jetbrains.com/plugin/10016-androidproguard/)
 
 > 又一个Android 代码混淆
 > ![](https://camo.githubusercontent.com/ddefde15718eeeba5e068325d0e44e385341e310/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313436303032312d306565356331363534663764346537642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
